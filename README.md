@@ -4,6 +4,7 @@ Data processing with python and predicting poverty levels with an LGBM model
 macro F1 score for final submission: 0.417 (top 30%)
 
 From the Kaggle competition description:
+
   'The Inter-American Development Bank is asking the Kaggle community for help with income qualification for some of the world's poorest families. Are you up for the challenge?
 
 Here's the backstory: Many social programs have a hard time making sure the right people are given enough aid. It’s especially tricky when a program focuses on the poorest segment of the population. The world’s poorest typically can’t provide the necessary income and expense records to prove that they qualify.
